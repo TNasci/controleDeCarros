@@ -6,6 +6,8 @@ Considerations about the project
 tip
 ```
 This project was made with SQLite so I left an instance to run the tests, if you want to do it from scratch, you just have to delete the instance folder and do the entire execution process
+
+In the project there is also a folder with the collection with all the routes already configured
 ```
 
 ### Setup
